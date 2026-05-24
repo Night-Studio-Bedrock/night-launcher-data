@@ -1,0 +1,50 @@
+{
+  "url": "https://halo333x.github.io/bedrock-launcher/",
+  "launch_button_color": "#5a2bb3",
+  "background_opacity": 0.8,
+  "window": {
+    "name": "Night Launcher",
+    "icon": "block.ico"
+  },
+  "data": {
+    "music": [
+      "Aria Math_spotdown.org.mp3",
+      "Beginning 2_spotdown.org.mp3",
+      "Biome Fest_spotdown.org.mp3",
+      "Blind Spots_spotdown.org.mp3",
+      "Clark_spotdown.org.mp3",
+      "Danny_spotdown.org.mp3",
+      "Dreiton_spotdown.org.mp3",
+      "Dry Hands_spotdown.org.mp3",
+      "Floating Trees_spotdown.org.mp3",
+      "Haggstrom_spotdown.org.mp3",
+      "Haunt Muskie_spotdown.org.mp3",
+      "Key_spotdown.org.mp3",
+      "Living Mice_spotdown.org.mp3",
+      "Mice on Venus_spotdown.org.mp3",
+      "Minecraft_spotdown.org.mp3",
+      "Moog City 2_spotdown.org.mp3",
+      "Mutation_spotdown.org.mp3",
+      "Oxygène_spotdown.org.mp3",
+      "Subwoofer Lullaby_spotdown.org.mp3",
+      "Sweden_spotdown.org.mp3",
+      "Taswell_spotdown.org.mp3",
+      "Wet Hands_spotdown.org.mp3"
+    ],
+    "textures": [
+      "NeBuxUI+_V1.4.2.zip"
+    ],
+    "icons": {
+      "tite": "title.png",
+      "background": "background.mp4",
+      "logo": "logo_transparent.png"
+    },
+    "server": {
+      "ip": "23.27.211.2",
+      "port": 25734
+    },
+    "social_media": {
+      "discord": "https://discord.gg/xSaYR3xWp3"
+    }
+  }
+}
